@@ -35,7 +35,7 @@
     />
     <select v-model="selectedContinent"
             @change="updateContinent"
-            class="mt-5 py-2 px-5 outline-none w-full md:mt-0 md:w-1/4 text-gray-400"
+            class="bg-white mt-5 py-2 px-5 outline-none w-full md:mt-0 md:w-1/4 text-gray-400"
     >
       <option value="">All Continents</option>
       <option value="Africa">Africa</option>
